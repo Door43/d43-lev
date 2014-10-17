@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lev:home|Door43 (lev)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lev|d43-lev repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lev/archive/master.zip|d43-lev.zip]]
+
+**Recent Changes**
+{{changes>ns = lev}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lev|Ethnologue data]]
+
